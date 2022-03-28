@@ -1,0 +1,20 @@
+Bienvenida al curso de Cypress.
+
+1. npm init
+
+2. npm install cypress --save-dev --> Instalacion!
+
+3. NPX instalacion https://www.npmjs.com/package/npx
+3.1. --> npm install -g npx
+3.2. --> (opcional, solo por si no funciona) npm cypres install --force --> forzar la Instalacion
+
+4. node_modules\.bin\cypress open 
+
+5. npx cypress open       better than 4
+
+6. Parar consola - crl + c
+
+7. Seleccionar elementos
+    - Con Id -> #
+    - Con clase -> .
+
